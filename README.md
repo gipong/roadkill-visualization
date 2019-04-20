@@ -3,6 +3,8 @@ This set of slides is an introduction to geospatial data visualization with road
 
 ## ipynb viewer
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gipong/roadkill-visualization/master)
+
 https://nbviewer.jupyter.org/github/gipong/roadkill-visualization/blob/master/roadkill-visualization-demo.ipynb
 
 ## slides
