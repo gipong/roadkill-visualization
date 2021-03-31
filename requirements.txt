@@ -66,7 +66,7 @@ keepalive==0.5
 kiwisolver==1.0.1
 llvmlite==0.27.1
 locket==0.2.0
-lxml==4.3.2
+lxml==4.6.3
 Mako==1.0.7
 mapclassify==2.0.1
 MarkupSafe==1.1.1
