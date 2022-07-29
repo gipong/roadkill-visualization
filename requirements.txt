@@ -72,7 +72,7 @@ mapclassify==2.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 MechanicalSoup==0.11.0
-mistune==0.8.4
+mistune==2.0.3
 mpmath==1.1.0
 msgpack==0.6.1
 munch==2.3.2
